@@ -15,4 +15,4 @@ Aquellos otros requerimientos se hallan en el siguiente repositorio: https://git
   - Drive, rf-menu: https://drive.google.com/file/d/1aoVsdQ_cVfPMr3rEri8veQLWqkybR-Sx/view?usp=drive_link
 ### Entregable 2 (23/06/2024)
 - RF-salas
-  - Drive, rf-salas: https://drive.google.com/file/d/1ii15xzQ_hfRiYPHgPDeD0VIQ-EMGdpRQ/view?usp=drive_link
+  - Drive, rf-salas: [Link al video de muestra](https://drive.google.com/file/d/1xOmK0Qm3TKCzaZmLnFyERLiYai5aZyks/view?usp=sharing)
